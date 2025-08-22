@@ -1,5 +1,7 @@
 # list-of-30-days-build-awesome-projects-with-angular-17
 
+## An open idea discussion can be found in here: [Discussion Angular 17 Project](https://github.com/daviddprtma/list-of-30-days-build-awesome-projects-with-angular-17/discussions)
+
 Todo List App: https://simple-todo-list-ecru.vercel.app/
 
 Guess Number Game: https://guess-number-game-beryl.vercel.app/
