@@ -21,3 +21,5 @@ Crypto Charts: https://crypto-charts-mu.vercel.app/
 Simple Checkers Game: https://simple-checkers-game.vercel.app/
 
 Password Security: https://check-password-security.vercel.app/
+
+Resume Builder: https://resume-builder-blond-theta.vercel.app/
