@@ -25,3 +25,5 @@ Simple Checkers Game: https://simple-checkers-game.vercel.app/
 Password Security: https://check-password-security.vercel.app/
 
 Resume Builder: https://resume-builder-blond-theta.vercel.app/
+
+Quiz App: https://quiz-app-taupe-nine-17.vercel.app/
